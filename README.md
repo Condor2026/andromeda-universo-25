@@ -1,7 +1,7 @@
 
 # ⚡ ANDRÓMEDA – Inteligencia de Amenazas en Tiempo Real
 # - Autor:Condor2026
-
+- workflow de inteligencia automatizado.
 Andrommeda no crackea servidores, es pasiva. No hackera, no hace ruido, es blanca. Simula ser un humano que navega por la red. Recopilando todo lo que quiero.  Si es automatizada. la preparo y la envio en mission. 
 
 # Explicando el 40% de lo que hace mi amigo Andromeda Universo 25, anteriormente llamado, Andromeda AntiCrackers! 
