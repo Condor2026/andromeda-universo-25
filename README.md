@@ -1,6 +1,7 @@
 
 # ⚡ ANDRÓMEDA – Inteligencia de Amenazas en Tiempo Real
-# - Autor:Condor2026
+🦅  **Autor:** Condor2026 - Threat Security - **Andromeda Private Suite** - **PURPLETEAM** - **Defense** - **StopCiberAttack** - **Prevencion** - **Periodismo** - **Threat Intelligence**  🦅
+
 - workflow de inteligencia automatizado.
 Andrommeda no crackea servidores, es pasiva. No hackera, no hace ruido, es blanca. Simula ser un humano que navega por la red. Recopilando todo lo que quiero.  Si es automatizada. la preparo y la envio en mission. 
 
